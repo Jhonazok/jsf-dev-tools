@@ -1,0 +1,8 @@
+{
+  "name": "jsf-dev-tools",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "~2.0.3"
+  },
+  "devDependencies": {}
+}
